@@ -1,0 +1,2 @@
+# Python_cookbook_note
+用来记录个人阅读Python cookbook时的练习笔记
